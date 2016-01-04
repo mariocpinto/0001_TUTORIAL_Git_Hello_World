@@ -1,2 +1,2 @@
 # 001_Git_Hello_World
-Hello World project in using git
+Git Hello World project based on this tutorial: https://guides.github.com/activities/hello-world/
